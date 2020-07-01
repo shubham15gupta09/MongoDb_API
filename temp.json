@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "field_1": "value_1",
+      "field_2": "value_2"
+    },
+    {
+      "field_1": "value_1",
+      "field_2": "value_2"
+    },
+    {
+      "field_1": "value_1",
+      "field_2": "value_2"
+    }
+  ],
+  "url": "<Your Mongodb Connection Url to the Cluster Created on the Mongodb Atlas>",
+  "model": "<Name of the db>",
+  "schema": {
+    "field_1": "Data Type supported with the MongoDb",
+    "field_2": "Data Type supported with the MongoDb"
+  }
+}
