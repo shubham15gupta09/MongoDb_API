@@ -4,7 +4,7 @@
 
 ## Introduction
 
-<p> This package helps you in connection with the MongoDb without using any connector like mongoose Now creating db is as easy as using fetch() or XmlHttprequest .Remove the hassel of writing long codes as package will handle it automatically .</p>
+<p> This package helps you in connection with the MongoDb without using any connector like mongoose Now creating db is as easy as using fetch() or XmlHttprequest .Remove the hassel of writing long codes .</p>
 
 ## How to Use ?
 <p> First you have to deploy this node js app using any cloud services , keep the website with you as it will be used later</p>
