@@ -41,4 +41,4 @@
 }
 ```
 <p> Now you havr to do a POST request on the url ( whihch i told you to save i the earlier process ) with the body having the above structure </p>
-<p> you will see that the db is created with the data in it which u passed</p>
+<p> you will see that the db is created with the data in it </p>
