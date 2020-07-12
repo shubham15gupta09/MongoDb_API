@@ -27,10 +27,6 @@
     {
       "field_1": "value_1",
       "field_2": "value_2"
-    },
-    {
-      "field_1": "value_1",
-      "field_2": "value_2"
     }
   ],
   "url": "<Your Mongodb Connection Url to the Cluster Created on the Mongodb Atlas>",
